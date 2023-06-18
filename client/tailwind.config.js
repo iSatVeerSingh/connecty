@@ -14,6 +14,12 @@ module.exports = {
       },
       colors: {
         "mid-white": "#f8f9fd",
+        "navi-gray": "#707991",
+        "light-gray": "#F5F5F5",
+        "mid-gray": "#F1F1F1",
+        "rich-black": "#011627",
+        "light-green": "#78E378",
+        "iceburg-blue": "#615EF0"
       }
     },
   },

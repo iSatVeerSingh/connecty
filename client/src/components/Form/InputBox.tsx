@@ -11,7 +11,7 @@ type InputBoxProps = {
   name: string;
   placeholder?: string;
   register: UseFormRegister<FieldValues>;
-  required: boolean;
+  required?: string;
   error?: string
 };
 
